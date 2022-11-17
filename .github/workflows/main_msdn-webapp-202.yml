@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'msdn-webapp-202'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FA37E929F7041AB998D714E51031F3B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0136340ECFF64062A597DB418895E5C4 }}
